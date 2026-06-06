@@ -1,6 +1,6 @@
 # Oi, eu sou o Kaike 👋
 
-Estudante de Ciência de Dados na FMU São Paulo, no primeiro semestre — mas já construindo portfólio com projetos reais desde o início. Antes de entrar na área, passei 3 anos como Analista de Vendas numa empresa B2B, onde aprendi que dados sem contexto de negócio não valem muito. Esse ponto de vista guia tudo que faço.
+Estudante de Ciência de Dados na FMU São Paulo, no primeiro semestre, mas já construindo portfólio com projetos reais desde o início. Antes de entrar na área, passei 3 anos como Analista de Vendas numa empresa, onde aprendi que dados sem contexto de negócio não valem muito. Esse ponto de vista guia tudo que faço.
 
 Hoje foco em análise exploratória, visualização e storytelling com dados. Cada projeto que publico aqui nasceu de uma pergunta real, não de um tutorial.
 
