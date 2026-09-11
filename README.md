@@ -37,7 +37,7 @@ Análise epidemiológica completa sobre o crescimento dos casos de AIDS entre id
 ---
 
 ### 🧪 [Coleta e Preparação de Dados em Saúde — Zika (SP) + IBGE](https://github.com/kaike-martins/coleta-preparacao-dados-saude)
-Projeto de engenharia de dados: coleta de duas fontes de naturezas diferentes (arquivo do DATASUS/TabNet e API do IBGE), tratamento de problemas reais de qualidade (codificação, separador, JSON aninhado), padronização de chave entre as bases e integração por *join*. Foco no que acontece antes da análise — garantir que o dado seja confiável.
+Projeto de engenharia de dados: coleta de duas fontes de naturezas diferentes (arquivo do DATASUS/TabNet e API do IBGE), tratamento de problemas reais de qualidade (codificação, separador, JSON aninhado), padronização de chave entre as bases e integração por *join*. Foco no que acontece antes da análise e garantir que o dado seja confiável.
 
 `Python` `Pandas` `requests` `DATASUS/SINAN` `API IBGE`
 
