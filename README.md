@@ -40,7 +40,7 @@ Tenho foco em **dados públicos de saúde** coleta, preparação e análise de b
 
 ### 🔬 [AIDS em pessoas com 60+ anos no Brasil (2010–2024)](https://github.com/kaike-martins/aids-60anos_mais-brasil)
 
-Análise epidemiológica sobre o crescimento dos casos de AIDS entre idosos brasileiros. 33.382 casos, crescimento de 94% no período, e evidências de interiorização da epidemia para Norte e Nordeste. Artigo submetido ao CONIC-SEMESP 2026, em co-autoria.
+Análise epidemiológica sobre o crescimento dos casos de AIDS entre idosos brasileiros. 33.375 casos, crescimento de 94% no período, e evidências de interiorização da epidemia para Norte e Nordeste. Artigo submetido ao CONIC-SEMESP 2026, em co-autoria.
 
 `Excel` `Power Query` `Power BI` `PowerPoint` `DATASUS/SINAN`
 
