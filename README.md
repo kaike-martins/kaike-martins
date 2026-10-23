@@ -44,6 +44,10 @@ Análise epidemiológica sobre o crescimento dos casos de AIDS entre idosos bras
 
 `Excel` `Power Query` `Power BI` `PowerPoint` `DATASUS/SINAN`
 
+<a href="https://github.com/kaike-martins/aids-60anos_mais-brasil">
+  <img src="imagens/aids-dashboard.gif" alt="Dashboard de AIDS em idosos filtrando por sexo" width="700">
+</a>
+
 ---
 
 ### 🧪 [Coleta e Preparação de Dados em Saúde — Zika (SP) + IBGE](https://github.com/kaike-martins/coleta-preparacao-dados-saude)
