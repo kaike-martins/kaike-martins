@@ -4,15 +4,16 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=2E86C1&center=true&vCenter=true&width=760&height=60&lines=Dados+p%C3%BAblicos+de+sa%C3%BAde+%7C+DATASUS+e+IBGE;An%C3%A1lise+epidemiol%C3%B3gica+com+Python+e+Power+BI;Do+dado+bruto+%C3%A0+decis%C3%A3o+em+sa%C3%BAde+p%C3%BAblica)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![requests](https://img.shields.io/badge/requests%20%2F%20APIs-20232A?style=flat&logo=fastapi&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![requests](https://img.shields.io/badge/requests_%2F_APIs-20232A?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -35,6 +36,14 @@ Tenho foco em **dados públicos de saúde** coleta, preparação e análise de b
 <a href="https://github.com/kaike-martins/cardiovascular-adultos-brasil">
   <img src="imagens/cardio-dashboard.gif" alt="Dashboard interativo de mortalidade cardiovascular navegando entre as quatro páginas" width="700">
 </a>
+
+---
+
+### 📈 [Análise Estatística de um Experimento de Redução da Glicemia](https://github.com/kaike-martins/analise-estatistica-glicemia)
+
+Inferência estatística aplicada: teste t pareado, teste de Welch e intervalo de confiança de 95% para avaliar a eficácia de dois medicamentos e de uma dieta. Limpeza rigorosa de uma base propositalmente suja (500 para 393 registros válidos), com validação por faixa fisiológica em vez de detecção automática de outliers e controle de variável de confusão antes de concluir sobre a dieta. Base didática da disciplina; o valor está na metodologia.
+
+`Python` `pandas` `SciPy` `Matplotlib` `Jupyter`
 
 ---
 
