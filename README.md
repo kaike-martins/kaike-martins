@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou o Kaike 👋
+<img src="imagens/banner-perfil.png" alt="Kaike Martins — Ciência de Dados, Análise e BI" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=2E86C1&center=true&vCenter=true&width=760&height=60&lines=Dados+p%C3%BAblicos+de+sa%C3%BAde+%7C+DATASUS+e+IBGE;An%C3%A1lise+epidemiol%C3%B3gica+com+Python+e+Power+BI;Do+dado+bruto+%C3%A0+decis%C3%A3o+em+sa%C3%BAde+p%C3%BAblica)
 
@@ -13,15 +13,14 @@
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-Estudante de Ciência de Dados na FMU São Paulo, no segundo semestre, mas já construindo portfólio com projetos reais desde o início. Antes de entrar na área, passei 3 anos como Analista de Vendas numa empresa, onde aprendi que dados sem contexto de negócio não valem muito. Esse ponto de vista guia tudo que faço.
+Estudante de Ciência de Dados na FMU São Paulo, no segundo semestre, com foco em **dados públicos de saúde** — coleta, preparação e análise de bases como DATASUS e IBGE, do dado bruto até a resposta de negócio.
 
-Tenho foco em **dados públicos de saúde** coleta, preparação e análise de bases como DATASUS e IBGE, do dado bruto até a resposta de negócio. Cada projeto que publico aqui nasceu de uma pergunta real, não de um tutorial.
+Meus projetos nascem de perguntas reais, não de tutoriais: quem adoece, onde, e o que os números escondem. Dois deles renderam co-autoria científica sob orientação da Profa. Luciana Lugli. Trago também 3 anos de experiência comercial, que me ensinaram cedo que dado sem contexto de decisão não vale muito.
 
 ---
 
@@ -69,7 +68,7 @@ Projeto de engenharia de dados: coleta de duas fontes de naturezas diferentes (a
 
 ## 🎓 Jornada acadêmica
 
-**Ciência de Dados** — FMU São Paulo *(2026 → em andamento)*
+**Bacharelado em Ciência de Dados** — FMU São Paulo *(2026 → 2029)*
 2º semestre. Cursando Banco de Dados Relacional (SQL), Aquisição e Preparação de Dados, POO em Java e Cálculo Aplicado. Representante de turma.
 
 **Programação com Python** — FMU São Paulo *(Abr/2026 · 40h)*
@@ -78,8 +77,8 @@ Fundamentos de Python: lógica, estruturas condicionais, listas e manipulação 
 **AI Fluency: Framework & Foundations** — Anthropic Academy *(Abr/2026)*
 Framework 4D para colaboração eficaz com sistemas de IA, ética e uso responsável.
 
-**Comunicação Assertiva Aplicada a Vendas** — Senac PR *(Jun/2024)*
-Técnicas de comunicação com clientes e argumentação em contextos comerciais.
+**Inglês** — Wizard by Pearson *(em andamento)*
+Curso presencial, com foco em leitura técnica e conversação.
 
 ---
 
@@ -89,8 +88,8 @@ Técnicas de comunicação com clientes e argumentação em contextos comerciais
 
 Atualmente **buscando estágio em dados / BI**. Aberto a conversas e oportunidades.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikemarttins)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:martinskaike1@gmail.com)
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/kaike-martins/Atividades-da-faculdade/blob/main/Curriculo_Kaike_Martins.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikemarttins)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:martinskaike1@gmail.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-informational?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/kaike-martins/Atividades-da-faculdade/blob/main/Curriculo_Kaike_Martins.pdf)
 
 </div>
